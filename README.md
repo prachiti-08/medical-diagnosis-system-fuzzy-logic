@@ -229,7 +229,7 @@ The aggregated fuzzy output is then defuzzified to obtain a final **risk score /
 This project is intended as an **AI-based educational/research decision-support system**, not as a replacement for professional medical diagnosis.
 
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ### Programming
 
@@ -277,33 +277,6 @@ medical-diagnosis-system-fuzzylogic/
 ```
 
 >  The complete implementation is maintained separately from this public showcase repository.
-
-
-#  Interface Preview
-
-###  Patient Input
-
-> Add screenshot here.
-
-```text
-/screenshots/home.png
-```
-
-###  Diagnostic Analysis
-
-> Add screenshot here.
-
-```text
-/screenshots/diagnosis.png
-```
-
-###  Results & Risk Assessment
-
-> Add screenshot here.
-
-```text
-/screenshots/results.png
-```
 
 #  Research Perspective
 
