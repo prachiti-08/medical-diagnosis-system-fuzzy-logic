@@ -6,18 +6,11 @@
 
 **A fuzzy-logic-based medical decision-support system designed to reason under uncertainty and transform patient symptoms into interpretable diagnostic risk assessments.**
 
-</p>
+- **Language:** Python 3.x
+- **Technology:** Fuzzy Logic / Decision System
+- **Domain:** Healthcare AI / HealthTech
+- **Status:** Active Development
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-Decision%20System-purple)
-![Healthcare AI](https://img.shields.io/badge/Domain-HealthTech-red)
-![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
-
-</p>
-
----
 
 ##  Why This Project?
 
@@ -38,7 +31,7 @@ Instead of forcing these observations into hard binary decisions, this system us
 > **The core idea:**
 > *Healthcare reasoning is not always black or white — fuzzy logic allows the system to work in the grey area.*
 
----
+
 
 #  Core Concept
 
@@ -105,7 +98,6 @@ Headache
 
 A symptom can therefore contribute to a diagnosis with varying strength.
 
----
 
 ### 02 — Human-Interpretable Rules
 
@@ -123,7 +115,6 @@ THEN
 
 This makes the inference process considerably easier to inspect than a completely opaque prediction pipeline.
 
----
 
 ### 03 — Explainable Decision Support
 
@@ -147,7 +138,6 @@ RISK ASSESSMENT
 
 **Prediction without reasoning is incomplete.**
 
----
 
 #  System Architecture
 
@@ -190,7 +180,6 @@ RISK ASSESSMENT
 └──────────────────────────────┘
 ```
 
----
 
 #  Key Features
 
@@ -205,7 +194,6 @@ RISK ASSESSMENT
 |  Visualization          | Supports interpretation of fuzzy variables and outputs |
 |  Modular Architecture   | Allows the rule base and inference system to evolve    |
 
----
 
 #  Example Reasoning Flow
 
@@ -240,7 +228,6 @@ The aggregated fuzzy output is then defuzzified to obtain a final **risk score /
 
 This project is intended as an **AI-based educational/research decision-support system**, not as a replacement for professional medical diagnosis.
 
----
 
 # 🛠️ Technology Stack
 
@@ -269,7 +256,6 @@ This project is intended as an **AI-based educational/research decision-support 
 
 * Streamlit / Flask *(depending on deployment configuration)*
 
----
 
 #  Project Structure
 
@@ -292,7 +278,6 @@ medical-diagnosis-system-fuzzylogic/
 
 >  The complete implementation is maintained separately from this public showcase repository.
 
----
 
 #  Interface Preview
 
@@ -319,8 +304,6 @@ medical-diagnosis-system-fuzzylogic/
 ```text
 /screenshots/results.png
 ```
-
----
 
 #  Research Perspective
 
@@ -351,8 +334,6 @@ The architecture can serve as a foundation for future extensions involving:
 * explainable AI
 * hybrid neuro-fuzzy systems
 * clinical decision-support research
-
----
 
 #  Future Development
 
@@ -385,15 +366,13 @@ The architecture can serve as a foundation for future extensions involving:
 * [ ] Performance benchmarking
 * [ ] Research publication
 
----
 
 #  Demo
 
-🚧 **Live demonstration coming soon.**
+ **Live demonstration coming soon.**
 
 > A deployed interactive version will be linked here once available.
 
----
 
 #  Source Code
 
@@ -409,7 +388,6 @@ This public repository is intended to showcase:
 
 For academic collaboration or technical discussion, the implementation can be shared selectively.
 
----
 
 #  Disclaimer
 
@@ -417,7 +395,6 @@ This project is a **research and educational prototype** intended to demonstrate
 
 It is **not a clinically validated diagnostic device** and should not be used as a substitute for evaluation by a qualified healthcare professional.
 
----
 
 #  Project
 
@@ -427,7 +404,7 @@ Built as an exploration of:
 
 **Artificial Intelligence × Fuzzy Systems × Healthcare**
 
----
+
 
 <p align="center">
 
